@@ -48,15 +48,6 @@ MySQL · MongoDB · PostgreSQL · Redis · Git · GitLab CI/CD
 - **Hyperledger Besu:** Learning about permissioned Ethereum networks and the tooling used to operate enterprise blockchain infrastructure.
 - **Technical Communication:** Practicing how to explain technical decisions clearly, collaborate across teams, and communicate implementation details to different audiences.
 
-
-## 📊 GitHub activity
-
-
-
-![GitHub activity calendar](https://ghchart.rshah.org/jeet-zeeve)
-
-[View my GitHub profile and public activity](https://github.com/jeet-zeeve?tab=overview)
-
 ## 🤝 Connect with me
 
 - 📧 [Gmail](mailto:bhoslejeet456@gmail.com)
